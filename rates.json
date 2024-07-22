@@ -1,0 +1,9 @@
+{"success": true, "timestamp": 1718063999, "historical": true, "base": "USD", "date": "2024-06-10", "rates": {"GBP": 0.785795, "EUR": 0.92915, "AUD": 1.51355, "ZAR": 18.736901, "USD": 1}}
+{"success": true, "timestamp": 1718150399, "historical": true, "base": "USD", "date": "2024-06-11", "rates": {"GBP": 0.78494, "EUR": 0.93109, "AUD": 1.513237, "ZAR": 18.557599, "USD": 1}}
+{"success": true, "timestamp": 1718236799, "historical": true, "base": "USD", "date": "2024-06-12", "rates": {"GBP": 0.781505, "EUR": 0.92482, "AUD": 1.500882, "ZAR": 18.384949, "USD": 1}}
+{"success": true, "timestamp": 1718323199, "historical": true, "base": "USD", "date": "2024-06-13", "rates": {"GBP": 0.78405, "EUR": 0.931296, "AUD": 1.50766, "ZAR": 18.43019, "USD": 1}}
+{"success": true, "timestamp": 1718409599, "historical": true, "base": "USD", "date": "2024-06-14", "rates": {"GBP": 0.789141, "EUR": 0.93285, "AUD": 1.512631, "ZAR": 18.353204, "USD": 1}}
+{"success": true, "timestamp": 1718495999, "historical": true, "base": "USD", "date": "2024-06-15", "rates": {"GBP": 0.789921, "EUR": 0.93285, "AUD": 1.513775, "ZAR": 18.35321, "USD": 1}}
+{"success": true, "timestamp": 1718582399, "historical": true, "base": "USD", "date": "2024-06-16", "rates": {"GBP": 0.78849, "EUR": 0.934415, "AUD": 1.51227, "ZAR": 18.369603, "USD": 1}}
+{"success": true, "timestamp": 1718668799, "historical": true, "base": "USD", "date": "2024-06-17", "rates": {"GBP": 0.786473, "EUR": 0.931065, "AUD": 1.51055, "ZAR": 18.239995, "USD": 1}}
+{"success": true, "timestamp": 1718755199, "historical": true, "base": "USD", "date": "2024-06-18", "rates": {"GBP": 0.786895, "EUR": 0.93105, "AUD": 1.50123, "ZAR": 18.04084, "USD": 1}}
